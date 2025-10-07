@@ -30,8 +30,8 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by:
-Registeration Number :
+Developed by:Meenakshi.R
+Registeration Number :212224220062
 */
 ```
 
